@@ -54,9 +54,3 @@ This project focuses on attendance insights of employees over three months (Apri
 - **HR teams**: for tracking attendance performance.
 - **Team managers**: for workforce planning and identifying behavior patterns.
 - **Executives**: to assess remote work trends and optimize HR policies.
-
----
-
-## 📎 Contact
-
-**Krutideepa Samantaray**
